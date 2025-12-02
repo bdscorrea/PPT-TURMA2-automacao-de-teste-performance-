@@ -47,3 +47,4 @@ Consulte o arquivo `resources/swagger.yaml` para detalhes dos endpoints e modelo
 
 ## Observações
 - Este projeto é apenas para fins de demonstração e não deve ser usado em produção sem persistência de dados e segurança adequada.
+# automacao-de-teste-performance
